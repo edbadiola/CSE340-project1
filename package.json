@@ -1,0 +1,20 @@
+{
+  "name": "cse340-project1",
+  "version": "1.0.0",
+  "description": "My First Project for CSE340 Class",
+  "homepage": "https://github.com/edbadiola/CSE340-project1#readme",
+  "bugs": {
+    "url": "https://github.com/edbadiola/CSE340-project1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edbadiola/CSE340-project1.git"
+  },
+  "license": "ISC",
+  "author": "Edward Kenneth Badiola",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
